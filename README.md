@@ -6,7 +6,7 @@ The project includes:
 - Revenue analysis (total revenue, category performance, top products)
 - Customer insights (top spenders, location-based patterns)
 - Monthly trend analysis (seasonality and revenue fluctuations)
-#$ Tools Used
+## Tools Used
 - PostgreSQL
 - DBeaver
 - Power BI
